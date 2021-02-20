@@ -1,0 +1,12 @@
+step1-take floor;
+step2-take soda;
+step3-take milkPowder;
+step4-take suger;
+step5-take bakingPowder;
+step6-mix egg;
+step7-mix milkMaid;
+step8-mix butter;
+step9-mix milk;
+step10-mix foodEssence;
+step11-put in oven;
+step12-apply Cream;
